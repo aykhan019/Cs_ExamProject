@@ -1,0 +1,11 @@
+C:\Users\Hafiz\source\repos\Cs_FinalProject\Cs_FinalProject\bin\Debug\Cs_FinalProject.exe.config
+C:\Users\Hafiz\source\repos\Cs_FinalProject\Cs_FinalProject\bin\Debug\Cs_FinalProject.exe
+C:\Users\Hafiz\source\repos\Cs_FinalProject\Cs_FinalProject\bin\Debug\Cs_FinalProject.pdb
+C:\Users\Hafiz\source\repos\Cs_FinalProject\Cs_FinalProject\obj\Debug\Cs_FinalProject.csproj.AssemblyReference.cache
+C:\Users\Hafiz\source\repos\Cs_FinalProject\Cs_FinalProject\obj\Debug\Cs_FinalProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hafiz\source\repos\Cs_FinalProject\Cs_FinalProject\obj\Debug\Cs_FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\Hafiz\source\repos\Cs_FinalProject\Cs_FinalProject\obj\Debug\Cs_FinalProject.exe
+C:\Users\Hafiz\source\repos\Cs_FinalProject\Cs_FinalProject\obj\Debug\Cs_FinalProject.pdb
+C:\Users\Hafiz\source\repos\Cs_FinalProject\Cs_FinalProject\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Hafiz\source\repos\Cs_FinalProject\Cs_FinalProject\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Hafiz\source\repos\Cs_FinalProject\Cs_FinalProject\obj\Debug\Cs_FinalProject.csproj.CopyComplete

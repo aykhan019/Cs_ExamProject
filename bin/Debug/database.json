@@ -1,0 +1,301 @@
+{
+  "Workers": [
+    {
+      "CVs": [
+        {
+          "Speciality": "Programmer",
+          "School": "Landau School",
+          "Score": 97,
+          "Skills": [
+            "C#",
+            "C++",
+            "Python"
+          ],
+          "CompaniesWorked": {
+            "Kapital Bank": {
+              "Sunday, 23 July, 2017": "Monday, 2 December, 2019"
+            },
+            "Turan Bank": {
+              "Thursday, 21 February, 2013": "Wednesday, 2 December, 2015"
+            }
+          },
+          "Languages": {
+            "English": "A",
+            "Russian": "B+"
+          },
+          "HasHonorsDiploma": true,
+          "Gitlink": "https://github.com/Drongo-J/Battleship_Cpp",
+          "Linkedin": "-"
+        },
+        {
+          "Speciality": "IT",
+          "School": "Landau School",
+          "Score": 97,
+          "Skills": [
+            "Java",
+            "C++",
+            "C#",
+            "Python"
+          ],
+          "CompaniesWorked": {
+            "Ata Bank": {
+              "Saturday, 23 July, 2016": "Thursday, 1 December, 2016"
+            },
+            "Beynelxalq Bank": {
+              "Saturday, 21 July, 2018": "Monday, 21 February, 2022"
+            }
+          },
+          "Languages": {
+            "Spanish": "C",
+            "Russian": "B",
+            "English": "A+"
+          },
+          "HasHonorsDiploma": true,
+          "Gitlink": "https://github.com/Drongo-J/Product_Stock_Project_Cpp",
+          "Linkedin": "https://www.linkedin.com/pub/dir/+/+?trk=homepage-basic_guest_nav_menu_people"
+        }
+      ],
+      "MyId": 0,
+      "Name": "John",
+      "Surname": "Johnlu",
+      "Age": 25,
+      "Username": "john123",
+      "Password": "123456",
+      "City": "New-York",
+      "Phone": "(099) 999 99 99",
+      "Notifications": []
+    },
+    {
+      "CVs": [
+        {
+          "Speciality": "IT",
+          "School": "Oxford School",
+          "Score": 97,
+          "Skills": [
+            "Python"
+          ],
+          "CompaniesWorked": {
+            "Oxford School": {
+              "Monday, 23 July, 2012": "Tuesday, 30 November, 2021"
+            }
+          },
+          "Languages": {
+            "English": "C",
+            "Russian": "A+",
+            "Spanish": "C+"
+          },
+          "HasHonorsDiploma": true,
+          "Gitlink": "https://github.com/Drongo-J/FinalProject_Cpp_OOP",
+          "Linkedin": "https://www.linkedin.com/learning/search?trk=homepage-basic_intent-module-learning"
+        }
+      ],
+      "MyId": 1,
+      "Name": "Rafig",
+      "Surname": "Rafigli",
+      "Age": 27,
+      "Username": "rafig123",
+      "Password": "1234abc",
+      "City": "Baku",
+      "Phone": "(055) 555 55 55",
+      "Notifications": []
+    }
+  ],
+  "Employers": [
+    {
+      "Vacancies": [
+        {
+          "ID": 1,
+          "Salary": 600,
+          "Name": "Waitress",
+          "City": "Baku",
+          "AgeRange": "18-40",
+          "Education": "Secondary",
+          "WorkExperience": "1 year",
+          "VacancyDate": "17 August, 2022",
+          "DeadlineDate": "23 September, 2022",
+          "RelevantPerson": "Anar",
+          "Phone": "(070) 286 - 04 - 04",
+          "Email": "mirzeyevanar10012@gmail.com",
+          "JobDescription": "\n  - 8 saatlıq iş rejimi \n  - Dəyişən iş qrafiki\n  - İş saatında yemək verilir\n  - Istirahet gunu heftede 1 defe",
+          "Requirements": "\n  - Gülərüzlü olmaq\n  - Şirkətin daxili qaydalarına riayət etmək\n  - Qonaqlara yüksək səviyyləli xidmət göstərmək\n  - Ən azından sifariş qəbul edəcək və xidmət göstərəcək səviyyədə ingilis dili biliyi",
+          "Appliers": []
+        },
+        {
+          "ID": 2,
+          "Salary": 900,
+          "Name": "Site administrator",
+          "City": "Baku",
+          "AgeRange": "24 - 50 years",
+          "Education": "Higher",
+          "WorkExperience": "from 3 to 5 years",
+          "VacancyDate": "July 07, 2022",
+          "DeadlineDate": "August 06, 2022",
+          "RelevantPerson": "Vefa Qaragözlü",
+          "Phone": "(051) 207 - 23 - 24",
+          "Email": "office@mgc.az",
+          "JobDescription": "\n  - Management of the company's site/sites\n  - Entering and updating information on the company's site/sites\n  - To monitor the technical support and proper functioning of the existing site\n  - Improvement of the existing site\n  - Troubleshooting software errors\n  - Performing other IT tasks",
+          "Requirements": "\n  - Technical higher education (education in the field of IT is desirable)\n  - Must know JAVA PHP, Html5, WordPress, SSL, Figma, Cpanel\n  - SQL knowledge\n  - Web programming and session management\n  - Understand processes and methodologies in existing software\n  - Ability to analyze and work with pre-written codes",
+          "Appliers": []
+        },
+        {
+          "ID": 3,
+          "Salary": 1200,
+          "Name": "IT Engineer",
+          "City": "Baku",
+          "AgeRange": "23 - 35 years",
+          "Education": "Higher",
+          "WorkExperience": "from 1 to 3 years",
+          "VacancyDate": "June 29, 2022",
+          "DeadlineDate": "July 29, 2022",
+          "RelevantPerson": "Metanet x.",
+          "Phone": "(070) 707-47-37",
+          "Email": "info@dataline.az",
+          "JobDescription": "\n  - Management of the company's site/sites\n  - Entering and updating information on the company's site/sites\n  - To monitor the technical support and proper functioning of the existing site\n  - Improvement of the existing site\n  - Troubleshooting software errors\n  - Performing other IT tasks",
+          "Requirements": "\n  - High education\n  - At least 1 year of work experience in the field of information technologies\n  - The ability to apply innovations in one's work\n  - Having appropriate knowledge of foreign languages\n  - Responsible approach to work, ability to communicate",
+          "Appliers": []
+        },
+        {
+          "ID": 4,
+          "Salary": 670,
+          "Name": "Operator",
+          "City": "Baku",
+          "AgeRange": "18 - 24 years",
+          "Education": "Higher",
+          "WorkExperience": "from 1 to 3 years",
+          "VacancyDate": "July 19, 2022",
+          "DeadlineDate": "August 18, 2022",
+          "RelevantPerson": "Aysel x",
+          "Phone": "(055) 200-55-77",
+          "Email": "info@safari-group.az",
+          "JobDescription": "\n  - Communication with drivers by phone and social networks\n  - Processing complaints and requests and feedback to drivers\n  - Respond to all incoming calls in a timely and efficient manner\n  - Accurate and correct transmission of information related to the service and provision of technical support\n  - Timely and accurate performance of tasks given by management",
+          "Requirements": "\n  - Should be fluent in Azerbaijani language\n  - Ability to speak fluently and with clear intonation\n  - Ability to communicate and listen on the phone\n  - Ability to clearly express your opinion and presentatio\n  - Fulfilling duties on time\n  - Business and goal-oriented, ability to work in a team\n  - Keeping data confidential in the work process\n  - Neat, punctual, good looking\n  - Knowledge of office programs: Word, Excel\n  - Work experience in this field is a must",
+          "Appliers": []
+        },
+        {
+          "ID": 5,
+          "Salary": 950,
+          "Name": "Videographer-Photographer",
+          "City": "Baku",
+          "AgeRange": "18 - 30 years",
+          "Education": "Secondary",
+          "WorkExperience": "from 1 to 3 years",
+          "VacancyDate": "July 19, 2022",
+          "DeadlineDate": "August 18, 2022",
+          "RelevantPerson": "Mehtiyeva Fidan",
+          "Phone": "(012) 594-27-35",
+          "Email": "zn@jaluz.az",
+          "JobDescription": "\n  - Working schedule \n  - weekdays from 10:00 to 18:00\n  - Making commercials, promo videos\n  - Making long and short videos for social networks\n  - Ability to work with a team\n  - To put forward proposals and initiatives in order to increase the efficiency of the agency's work in the creative field\n  - Software knowledge for video editing: Adobe Premiere, After Effects",
+          "Requirements": "\n  - Gender: Male\n  - Knowing graphic programs\n  - Motion animation (preferred)\n  - Knowledge of Premiere, Photoshop, After Effects\n  - At least 1 year of work experience in the relevant field\n  - Creative and innovative thinking\n  - Ability to work in a team",
+          "Appliers": []
+        }
+      ],
+      "MyId": 2,
+      "Name": "Cavid",
+      "Surname": "Eliyev",
+      "Age": 34,
+      "Username": "cavid123",
+      "Password": "111222333",
+      "City": "Berlin",
+      "Phone": "(011) 111 11 11",
+      "Notifications": []
+    },
+    {
+      "Vacancies": [
+        {
+          "ID": 6,
+          "Salary": 550,
+          "Name": "Seller",
+          "City": "Baku",
+          "AgeRange": "20 - 35 years",
+          "Education": "Secondary",
+          "WorkExperience": "from 1 to 3 years",
+          "VacancyDate": "July 14, 2022",
+          "DeadlineDate": "August 13, 2022",
+          "RelevantPerson": "Yegane x.",
+          "Phone": "(055) 478-55-13",
+          "Email": "profi-yar@mail.ru",
+          "JobDescription": "\n  - Saleswomen are required for Dalga market, located near Metro Insaatchilar\n  - Work experience is a must\n  - Working hours 9 hours, once a week off spring from the store\n  - Salary between 350-400\n  - Contact for more details",
+          "Requirements": "\n  - Must have experience in a grocery store",
+          "Appliers": []
+        },
+        {
+          "ID": 7,
+          "Salary": 600,
+          "Name": "Taxi Driver",
+          "City": "Baku",
+          "AgeRange": "25 - 50 years",
+          "Education": "None",
+          "WorkExperience": "from 1 to 3 years",
+          "VacancyDate": "June 29, 2022",
+          "DeadlineDate": "July 29, 2022",
+          "RelevantPerson": "Elçin m",
+          "Phone": "(055) 950-10-01",
+          "Email": "1taximmc@gmail.com",
+          "JobDescription": "\n  - Our drivers will be given a Toyota Prius car\n  - Those who want to join with their own car can also write. We offer them cooperation on favorable terms\n  - The income varies between 20-40 manats per day depending on the driver's job\n  - In addition, there are weekly and monthly bonuses and gifts\n  - The driver is provided with a company number",
+          "Requirements": "\n  - Male candidate\n  - 25-50 years old\n  - BC category driver's license\n  - At least 2-3 years of experience as a driver (taxi drivers are preferred)\n  - Getting to know the city of Baku normally\n  - Responsible, accurate, diligent, eager to win",
+          "Appliers": []
+        },
+        {
+          "ID": 8,
+          "Salary": 1000,
+          "Name": "Front-end Programmer",
+          "City": "Baku",
+          "AgeRange": "18 - 40 years",
+          "Education": "None",
+          "WorkExperience": "from 3 to 5 years",
+          "VacancyDate": "July 19, 2022",
+          "DeadlineDate": "August 18, 2022",
+          "RelevantPerson": "Bilal Sadiqov",
+          "Phone": "(012) 310-26-27",
+          "Email": "hr@optima.az",
+          "JobDescription": "\n  - Working hours: 5 days a week, from 09:00 to 18:00\n  - Workplace: 56 Ahmet Rajabli, Aynali Plaza, 6th floor\n  - The salary will be determined according to the knowledge and skills of the candidate\n  - Applications are accepted in the form of a CV.",
+          "Requirements": "\n  - HTML, CSS\n  - Javascript\n  - React.js\n  - Redux, Redux-toolkit\n  - Axios, Rest API, WebSocket\n  - Ssss, less",
+          "Appliers": []
+        },
+        {
+          "ID": 9,
+          "Salary": 870,
+          "Name": "Registrar",
+          "City": "Baku",
+          "AgeRange": "18 - 50 years",
+          "Education": "Secondary",
+          "WorkExperience": "from 1 to 3 years",
+          "VacancyDate": "July 19, 2022",
+          "DeadlineDate": "August 18, 2022",
+          "RelevantPerson": "Secda x.",
+          "Phone": "(055) 310-53-53",
+          "Email": "yelloservice1@gmail.com",
+          "JobDescription": "\n  - Salcano 'Registrar for the Baku depot department of MMC' is required. active vacancy \n  - Working schedule: from 09:00 to 17:00\n  - Saturday \n  - Sunday rest",
+          "Requirements": "\n  - Madam\n  - Age 18-50\n  - Secondary education\n  - Handwriting skills are a must\n  - Written and oral communication skills in Azerbaijani are a must\n  - Punctual\n  - Responsible\n  - Able to adapt to the collective",
+          "Appliers": []
+        },
+        {
+          "ID": 10,
+          "Salary": 1500,
+          "Name": "IT Engineer",
+          "City": "Baku",
+          "AgeRange": "25 - 35 years",
+          "Education": "Higher",
+          "WorkExperience": "from 1 to 3 years",
+          "VacancyDate": "June 22, 2022",
+          "DeadlineDate": "July 22, 2022",
+          "RelevantPerson": "Rafiq m.",
+          "Phone": "(051) 232-83-74",
+          "Email": "hr@konsis.az",
+          "JobDescription": "\n  - Konsis company is recruiting an IT specialist with knowledge and experience in this field\n  - Office work\n  - IT specialist \n  - A technical support representative who handles inquiries from product users or other support engineers. Depending on the type of application, this specialist resolves the issue himself or forwards it to colleagues for review\n  - Excellent opportunities for professional development and self-realization",
+          "Requirements": "\n  - Ability to investigate and analyze system-wide problems\n  - Knowledge of network and Windows operating system\n  - Solving problems on the spot\n  - Prepare technical documentation and report to management\n  - Knowledge of Azerbaijani and Russian languages",
+          "Appliers": []
+        }
+      ],
+      "MyId": 3,
+      "Name": "Rza",
+      "Surname": "Asadli",
+      "Age": 44,
+      "Username": "rza000",
+      "Password": "010101",
+      "City": "London",
+      "Phone": "(066) 666 66 66",
+      "Notifications": []
+    }
+  ]
+}
