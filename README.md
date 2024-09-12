@@ -32,7 +32,11 @@ Ensure you have the following tools installed:
 3. View Output: All output, including calculations and synchronization tasks, will be displayed in the console.
 
 ## Video Demo
-[![Chess Game Demo](https://media.aykhan.net/thumbnails/projects/c-sharp.jpeg)](https://www.youtube.com/watch?v=mobOv9Qd304)
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=mobOv9Qd304">
+    <img src="https://media.aykhan.net/thumbnails/projects/c-sharp.jpeg" alt="Chess Game Demo">
+  </a>
+</div>
 
 Click the image above to view the full project demonstration.
 
