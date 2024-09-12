@@ -1,7 +1,7 @@
 # C-Sharp Exam Project: Boss.Az
 
 ## Project Overview
-This project is a console-based application developed for a Computer Science exam. The primary goal is to demonstrate proficiency in key programming concepts, including data processing, synchronization, and user input handling, all through a command-line interface.
+This project is a console-based application developed for C# exam. The primary goal is to demonstrate proficiency in key programming concepts, including data processing, and user input handling, all through a command-line interface.
 
 ## Features
 - **Console-based Interaction**: The project operates entirely in the console, ensuring a straightforward and efficient user experience.
