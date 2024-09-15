@@ -44,4 +44,4 @@ Click the image above to view the full project demonstration.
 If you'd like to contribute to this project, please fork the repository, create a feature branch, and submit a pull request.
 
 ### License
-This project is licensed under the MIT License - see the LICENSE file for more details.
+This project is licensed under the [MIT License](LICENSE)
