@@ -1,47 +1,96 @@
-# C-Sharp Exam Project: Boss.Az
+# Boss.Az Console Job Portal
 
-## Project Overview
-This project is a console-based application developed for C# exam. The primary goal is to demonstrate proficiency in key programming concepts, including data processing, and user input handling, all through a command-line interface.
+Boss.Az Console Job Portal is a C#/.NET Framework console application that simulates a recruitment platform. The application supports worker and employer registration, sign-in, vacancy management, CV management, vacancy search, job applications, notifications, and JSON-based local persistence.
+
+The project was built as an exam/final project and now uses a clearer source layout so the domain model, authentication flow, infrastructure helpers, presentation helpers, and application entry point are easier to navigate.
 
 ## Features
-- **Console-based Interaction**: The project operates entirely in the console, ensuring a straightforward and efficient user experience.
-- **Synchronization Tasks**: It demonstrates concurrency management by executing tasks that require synchronization.
-- **Data Processing**: The program processes input data provided by the user and displays results in the console.
 
-## Technologies Used
-- **C#**
-- **.NET Framework**
+- Worker and employer sign-up/sign-in flows.
+- Employer vacancy creation, listing, deletion, and applicant review.
+- Worker CV creation, listing, deletion, and job application flow.
+- Vacancy search and filtering from the console interface.
+- Notification delivery between employers and workers.
+- Local JSON persistence through `Newtonsoft.Json`.
+- Console UI helpers for menu navigation and formatted output.
+- Exception logging to `Errors.txt`.
+
+## Tech Stack
+
+- C#
+- .NET Framework 4.7.2
+- Newtonsoft.Json 13.0.1
+- Visual Studio/MSBuild project format
+
+## Project Structure
+
+```text
+.
+├── App.config
+├── BossAZ.csproj
+├── packages.config
+├── Properties/
+│   └── AssemblyInfo.cs
+└── src/
+    ├── App/              # Program entry point and main controller
+    ├── Authentication/   # Sign-in and sign-up flows
+    ├── Domain/           # Core entities: workers, employers, CVs, vacancies
+    ├── Exceptions/       # Custom application exceptions
+    ├── Infrastructure/   # File and JSON persistence helpers
+    ├── Presentation/     # Console UI and warning helpers
+    └── Services/         # Search and menu extension behavior
+```
+
+Generated build output (`bin/`, `obj/`), IDE user files, NuGet restore output, and runtime files are intentionally ignored by Git.
 
 ## Getting Started
 
 ### Prerequisites
-Ensure you have the following tools installed:
-- Visual Studio or any C# IDE
-- .NET Framework
 
-### Installation
+- Visual Studio 2019 or newer, or MSBuild with .NET Framework 4.7.2 targeting pack.
+- NuGet package restore enabled.
+
+### Build and Run
+
 1. Clone the repository:
+
    ```bash
    git clone https://github.com/aykhan019/Cs_ExamProject.git
-2. Navigate to the project folder and open the .csproj file in your IDE.
-3. Build and run the project in Debug mode to launch the console application.
+   cd Cs_ExamProject
+   ```
 
-### Usage
-1. Launch the Console: Run the program from your IDE or terminal.
-2. Follow the Prompts: The console will guide you through various tasks. Enter the required data when prompted.
-3. View Output: All output, including calculations and synchronization tasks, will be displayed in the console.
+2. Open `BossAZ.csproj` in Visual Studio.
+3. Restore NuGet packages if Visual Studio does not do it automatically.
+4. Build and run the project.
 
-## Video Demo
+For a command-line build with Mono:
+
+```bash
+nuget install packages.config -OutputDirectory packages
+xbuild /p:Configuration=Debug BossAZ.csproj
+```
+
+The application seeds sample workers, employers, CVs, and vacancies at startup and writes the current database to `database.json` in the working directory.
+
+## Usage
+
+Use the keyboard-driven console menus to sign in or create an account:
+
+- Choose **Worker** to manage CVs, browse/search vacancies, apply for jobs, and view notifications.
+- Choose **Employer** to manage vacancies, review applicants, hire workers, and view notifications.
+
+Runtime errors are written to `Errors.txt` for debugging.
+
+## Demo
+
 <div align="center">
   <a href="https://www.youtube.com/watch?v=mobOv9Qd304">
-    <img src="https://media.aykhan.net/thumbnails/projects/c-sharp.jpeg" alt="Chess Game Demo">
+    <img src="https://media.aykhan.net/thumbnails/projects/c-sharp.jpeg" alt="Boss.Az console job portal demo">
   </a>
 </div>
 
-Click the image above to view the full project demonstration.
+Click the image above to view the project demonstration.
 
-### Contributing
-If you'd like to contribute to this project, please fork the repository, create a feature branch, and submit a pull request.
+## License
 
-### License
-This project is licensed under the [MIT License](LICENSE)
+This project is licensed under the [MIT License](LICENSE).
